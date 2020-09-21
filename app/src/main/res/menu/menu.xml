@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--<item-->
+    <!--android:id="@+id/menu"-->
+    <!--android:title="Menu"-->
+    <!--app:showAsAction="ifRoom"-->
+    <!--/>-->
+    <item
+        android:id="@+id/replayOption"
+        android:title="Replay" />
+    <item
+        android:id="@+id/restartOption"
+        android:title="Restart" />
+    <item
+        android:id="@+id/exitOption"
+        android:title="Exit" />
+    <item
+        android:id="@+id/scoreOption"
+        android:title="Total Scores" />
+
+
+</menu>

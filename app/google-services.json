@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "842747220122",
+    "firebase_url": "https://tictactoemod.firebaseio.com",
+    "project_id": "tictactoemod",
+    "storage_bucket": "tictactoemod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842747220122:android:bd68673ff4c4492c",
+        "android_client_info": {
+          "package_name": "tictactoemod.game.tictactoemod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842747220122-t3h7j7cevd92ubpkb6llsp3vp6qcgfa9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAChP_qRqn8rr3tCXnFz2awRzAjmn_8XEA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
